@@ -5,7 +5,6 @@ def mean_median_mode(x):
     """
     Compute mean, median, and mode.
     """
-    x = np.array(x)
 
     hash = {}
     s = sum(x)
